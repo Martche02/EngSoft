@@ -20,20 +20,22 @@
 ### 2. BENCHMARKING
 
 #### 2.1. Referência Interna (Sistema da Própria Universidade)
-* **Nome do Sistema / Plataforma:**
-* **Link / Acesso:**
-* **Funcionalidade / Problema observado:**
-* **Fluxos, regras ou informações relevantes identificadas:**
-* **O que será aproveitado como referência no projeto:**
-* **O que NÃO será aproveitado e por quê:**
+* **Nome do Sistema: Mural de Notícias UFRGS**
+* **Link: [https://www.ufrgs.br/prorext/eventos](https://www.ufrgs.br/prorext/eventos)**
+* **Funcionalidade / Problema observado:** O sistema lista palestras, defesas de TCC e mestrado e seminários acadêmicos em formato puramente textual. Não há nada específico para docinhos.
+* **Fluxos, regras ou informações relevantes identificadas:** Categorização por data, horário e título do palestrante/evento.
+* **O que será aproveitado como referência no projeto:** A estrutura básica de exibição do cardápio de eventos
+* **O que NÃO será aproveitado e por quê:** A ausência de informações especificas do INF correlações com filtro de data e informações de docinhos.
 
 #### 2.2. Referência Externa (Pelo menos um sistema/plataforma real de fora)
-* **Nome do Sistema / Plataforma:**
-* **Link de acesso:**
-* **Funcionalidade / Problema observado:**
-* **Fluxos, regras ou informações relevantes identificadas:**
-* **O que será aproveitado como referência no projeto:**
-* **O que NÃO será aproveitado e por quê:**
+* **Nome do Sistema / Plataforma:** meetup
+* **Link de acesso:** https://www.meetup.com
+* **Funcionalidade / Problema observado:** Gestão de comunidades de tecnologia e eventos presenciais/híbridos.
+O organizador consegue lançar temas em discussão, medir o número de confirmados (RSVP)
+* **Fluxos, regras ou informações relevantes identificadas:** Mecanismo de confirmação de presença prévia para dimensionamento de espaço e alimentação.
+* **O que será aproveitado como referência no projeto:** O uso de tags visuais em destaque para conveniências (como a tag de docinhos/coffee break).
+A lógica de quórum prévio: usar enquetes e votos de interesse para apoiar a decisão de viabilidade de alocação de recursos (auditório, orçamento de recepção).
+* **O que NÃO será aproveitado e por quê:** Venda de ingressos, cobranças ou regras de check-in complexas com QR Code comercial: os eventos universitários são gratuitos e voltados ao engajamento comunitário.
 
 ---
 
